@@ -7,3 +7,16 @@ Follow the given instructions to install it:
      ```
      wget https://files.waveshare.com/wiki/UPS%20Power%20Module%20(C)/UPS_Power_Module_C.zip
      ```
+2. Moving into the cloned folder
+   ```
+   cd UPS-Power-Module-C-3s
+   ```
+3.  Installing dependencies
+   ```
+     sudo apt update
+     sudo apt install python3-smbus i2c-tools -y
+   ```
+4. Running the main code:
+   ```
+   python3 INA219.py
+   ```
