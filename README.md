@@ -123,7 +123,7 @@ git clone https://github.com/shourya-886/UPS-Power-Module-C-3S.git
 Run:
 
 ```bash
-cd UPS_Power_Module_C
+cd UPS-Power-Module-C-3S/UPS_Power_Module_C/
 ```
 
 ---
