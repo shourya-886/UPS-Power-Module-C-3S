@@ -1,15 +1,16 @@
 # UPS-Power-Module-C-3S
-This repo contains the zip file for the Waveshare UPS Power Module (C) 3S. The module has 3x21700 battery slots... THIS IS NOT A OFFICIAL ZIP FILE
+This repo contains the zip file for the Waveshare UPS Power Module (C) 3S. The module has 3x21700 battery slots... THIS IS NOT A OFFICIAL REPO
+THIS CODE IS NOT TESTED ON WINDOWS, ONLY ON UBUNTU 22.04 LTS
 
 Follow the given instructions to install it:
 
 1. Just clone this repo on your Jetson Orin Nano/NX by running the command in the terminal/Command prompt/ PowerShell
      ```
-     wget https://files.waveshare.com/wiki/UPS%20Power%20Module%20(C)/UPS_Power_Module_C.zip
+     git clone https://github.com/shourya-886/UPS-Power-Module-C-3S.git
      ```
 2. Moving into the cloned folder
    ```
-   cd UPS-Power-Module-C-3s
+   cd UPS-Power-Module-C-3S-main/UPS_Power_Module_C
    ```
 3.  Installing dependencies
    ```
