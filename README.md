@@ -1,7 +1,7 @@
 # UPS-Power-Module-C-3S
 
+# THIS IS NOT A OFFICIAL SITE
 ## Overview
-
 This guide explains how to install and run the official Waveshare battery monitoring software for the UPS Power Module (C) on NVIDIA Jetson Orin systems.
 
 The UPS module communicates over I2C and provides:
